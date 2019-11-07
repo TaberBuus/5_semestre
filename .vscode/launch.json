@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainApp",
+            "request": "launch",
+            "mainClass": "ch.markery.address.MainApp",
+            "projectName": "Prebook_skema"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "ch.markery.address.App",
+            "projectName": "Prebook_skema"
+        }
+    ]
+}
